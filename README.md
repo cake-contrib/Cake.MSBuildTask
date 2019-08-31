@@ -5,7 +5,7 @@ Cake.MSBuildTask is an Addin for Cake which helps with the execution of MSBuild 
 
 ## Background
 
-This repository is a fork of the original repository which you can find [here]()https://github.com/marcosnz/Cake.MSBuildTask.
+This repository is a fork of the original repository which you can find [here](https://github.com/marcosnz/Cake.MSBuildTask).
 
 Due to the tragic death of the original maintainer of this project, we (the Cake Team) have taken over maintenance of the project.  With the help of the NuGet Team, we were able to add the cake-contrib user to the NuGet package, which means that we can continue to push out updates to the same package id, without having to change it.  We thank the NuGet Team for their help in this regard.
 
