@@ -17,10 +17,10 @@
     <tags>Cake Script Build MSBuild Task</tags>
   </metadata>
   <files>
-    <file src="Cake.MSBuildTask.dll" />
-    <file src="Cake.MSBuildTask.xml" />
-    <file src="Cake.MSBuildTask.pdb" />
-    <file src="Microsoft.Build.Framework.dll" />
-    <file src="Microsoft.Build.Utilities.v4.0.dll" />
+    <file src="Cake.MSBuildTask.dll" target="lib/net461" />
+    <file src="Cake.MSBuildTask.xml" target="lib/net461" />
+    <file src="Cake.MSBuildTask.pdb" target="lib/net461" />
+    <file src="Microsoft.Build.Framework.dll" target="lib/net461" />
+    <file src="Microsoft.Build.Utilities.v4.0.dll" target="lib/net461" />
   </files>
 </package>
