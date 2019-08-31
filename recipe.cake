@@ -8,7 +8,8 @@ BuildParameters.SetParameters(context: Context,
                             title: "Cake.MSBuildTask",
                             repositoryOwner: "cake-contrib",
                             repositoryName: "Cake.MSBuildTask",
-                            appVeyorAccountName: "cakecontrib");
+                            appVeyorAccountName: "cakecontrib",
+                            shouldRunGitVersion: true);
 
 BuildParameters.PrintParameters(Context);
 
