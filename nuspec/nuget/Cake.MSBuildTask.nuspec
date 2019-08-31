@@ -7,7 +7,8 @@
     <owners>Mark Walker, cake-contrib</owners>
     <description>Cake MSBuildTask AddIn</description>
     <summary>Cake AddIn that extends Cake with ability to run any MSBuild Task</summary>
-    <licenseUrl>https://github.com/cake-contrib/Cake.MSBuildTask/blob/master/LICENSE</licenseUrl>
+    <license type="expression">MIT</license>
+    <repository type="git" url="https://github.com/cake-contrib/Cake.MSBuildTask.git"/>
     <projectUrl>https://github.com/cake-contrib/Cake.MSBuildTask/</projectUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/cake-contrib/graphics/png/cake-contrib-medium.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
